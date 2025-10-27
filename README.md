@@ -23,3 +23,6 @@ I'm a physics student passionate about circuit design, FPGA development, and eng
 - 📧 Email: brandfriedrich10@gmail.com 
 - 🔗 LinkedIn: https://www.linkedin.com/in/brandon-friedrich-19b122390/
 - 💻 GitHub: You’re already here 😊
+
+
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
