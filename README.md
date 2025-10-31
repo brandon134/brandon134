@@ -18,7 +18,7 @@ I'm a physics student passionate about circuit design, FPGA development, and eng
 [**Audio Spectrum Decomposer**]  Designed and built a circuit which decomposes an audio spectrum into bass, mid, and treble frequency bands, and displays each level on incremental LEDs.
 - https://github.com/brandon134/brandon134/blob/main/Spectrum_Display.pdf
 
-[**Laser Driver**]  Designed and built an 8-channel laser driver circuit, with customizable intensity levels for each laser using a Raspberry Pi Pico.
+[**Laser Driver**]  Designed and built an 8-channel laser driver circuit, with user-customizable intensity levels for each laser using a Raspberry Pi Pico.
 - https://github.com/brandon134/brandon134/blob/main/LaserBoxSchematic.pdf
 - https://github.com/brandon134/brandon134/blob/main/LaserBoxFab.zip
 
