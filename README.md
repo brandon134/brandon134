@@ -10,6 +10,7 @@ I'm a physics student passionate about circuit design, FPGA development, and eng
 - https://github.com/MazinLab/gen3-vivado-top/blob/main/rtl/mkidaranth/src/mkidaranth/image_cuber_perhipheral.py
 - https://github.com/MazinLab/gen3-vivado-top/blob/main/rtl/mkidaranth/tests/test_cuber.py
 - https://github.com/MazinLab/gen3-vivado-top/blob/main/rtl/mkidaranth/tests/test_cuber_peripheral.py
+- https://github.com/brandon134/brandon134/blob/main/Summer%20Research%202025.pdf
 
 [**AM Radio**]  Designed and built a small-scale AM radio on a breadboard:
 - https://drive.google.com/file/d/125d_GoXOTxi4oV9h-YKJ4pLg3IVPT3-T/view?usp=sharing
