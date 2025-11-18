@@ -13,12 +13,12 @@ I'm a physics student passionate about circuit design, FPGA development, and eng
 - https://github.com/brandon134/brandon134/blob/main/Summer%20Research%202025.pdf
 
 [**AM Radio**]  Designed and built a small-scale AM radio on a breadboard.
-- https://github.com/brandon134/brandon134/blob/main/AM_Radio.pdf
+- https://github.com/brandon134/brandon134/blob/main/AM_Radio.pdf  (download if not displaying properly in browser)
 
 [**Audio Spectrum Decomposer**]  Designed and built a circuit which decomposes an audio spectrum into bass, mid, and treble frequency bands, and displays each level on incremental LEDs.
-- https://github.com/brandon134/brandon134/blob/main/Spectrum_Display.pdf
+- https://github.com/brandon134/brandon134/blob/main/Spectrum_Display.pdf  (download if not displaying properly in browser)
 
-[**Laser Driver**]  Designed and built an 8-channel laser driver circuit, with user-customizable intensity levels for each laser using a Raspberry Pi Pico.
+[**Laser Driver**]  Designed and built a multi-channel user-controllable laser driver circuit, controlled by a Raspberry Pi Pico.
 - https://github.com/brandon134/brandon134/blob/main/LaserBoxSchematic.pdf
 - https://github.com/brandon134/brandon134/blob/main/LaserBoxFab.zip
 
