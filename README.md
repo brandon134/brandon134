@@ -23,3 +23,7 @@ I'm a physics student passionate about circuit design, FPGA development, and eng
 - https://github.com/brandon134/brandon134/blob/main/Spectrum_Display.pdf  (download if not displaying properly in browser)
 
 ---
+
+## 📫 Connect with me
+- 📧 Email: brandfriedrich10@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/brandonf0](https://www.linkedin.com/in/brandonf0/)
